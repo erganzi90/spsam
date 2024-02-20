@@ -1,5 +1,2 @@
-# Example Package
-
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+# spSAM
+![spsam](https://github.com/renzhonggan/spsam/blob/main/docs/images/spsam_pipeline.jpg)
