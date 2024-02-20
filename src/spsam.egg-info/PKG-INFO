@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: spsam
+Version: 0.0.1
+Summary: Split Align Map
+Author-email: renzhg <rzgedu@163.com>
+Project-URL: Homepage, https://github.com/renzhonggan/spsam
+Project-URL: Bug Tracker, https://github.com/renzhonggan/spsam/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9.17
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: plotly==5.17.0
+Requires-Dist: seaborn==0.12.2
+Requires-Dist: matplotlib==3.7.2
+Requires-Dist: pandas==2.1.0
+Requires-Dist: numpy==1.23.4
+Requires-Dist: anndata==0.9.2
+
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
