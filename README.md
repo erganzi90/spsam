@@ -13,3 +13,5 @@ pip install spsam
 jupyter lab
 [tutorial]
 ```
+# FAQ
+See https://github.com/renzhonggan/spsam/issues
