@@ -1,8 +1,8 @@
 # spSAM: 10X visium **sp**ot **S**plit **A**lign **M**ap
-![spsam](https://github.com/renzhonggan/spsam/blob/main/docs/images/figure1.jpg)
+![spsam](https://github.com/erganzi90/spsam/blob/main/docs/images/figure1.jpg)
 # Usage and Tutorials
 Please refer to the 
-[PDF](https://github.com/renzhonggan/spsam/blob/main/docs/spsam_tutorial.pdf) for detailed tutorial or download [HTML](https://github.com/renzhonggan/spsam/tree/main/docs) for interactive figures. Download [demo data](https://drive.usercontent.google.com/download?id=16EJgF5yLAnJvadusFoOkRVGpTAgmtmZ_&export=download&authuser=0)(34Mb) for test.
+[PDF](https://github.com/erganzi90/spsam/blob/main/docs/spsam_tutorial.pdf) for detailed tutorial or download [HTML](https://github.com/erganzi90/spsam/tree/main/docs) for interactive figures. Download [demo data](https://drive.usercontent.google.com/download?id=16EJgF5yLAnJvadusFoOkRVGpTAgmtmZ_&export=download&authuser=0)(34Mb) for test.
 # Installation
 If you do not have conda please install Miniconda first.  
 ```
@@ -14,4 +14,4 @@ jupyter lab
 [tutorial]
 ```
 # FAQ
-See https://github.com/renzhonggan/spsam/issues
+See https://github.com/erganzi90/spsam/issues
